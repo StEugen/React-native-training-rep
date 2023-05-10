@@ -11,7 +11,12 @@ This repository is made to learn some React native features. Here you will build
 
 ## Repository overview
 - NativeApp - folder with app
-	- Should be filled up
+	- assets - folder stores all images
+	- gitignore - file instructs Git to ignore certain files or folders in a project
+	- App.js - file contains main component to start your study app.
+	- app.json - file is used for configuring how a project loads in Expo Go
+	- babel.config.js - file contains the project-wide configuration and converts JSX syntax
+	- package.json - file used to define various project metadata
 - README.md - This Readme file
 - TODO.md - file with tasks 
 
