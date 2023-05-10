@@ -18,6 +18,7 @@
 
 ## Actual coding
 1. Your app should display words added, they should have a description
+	- details: make Header component, Make Home component. (see figma) 
 2. Your app should have add function, to add words with desription
 3. Your app should have delete function, to delete words with descriptions
 4. Your app should have update function, to update words with descriptions
